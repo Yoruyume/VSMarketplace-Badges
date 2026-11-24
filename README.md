@@ -1,14 +1,8 @@
 # VSMarketplace Badges
 
-[![Version](https://vsmarketplacebadges.dev/version/xuangeaha.vsmarketplace-badges.svg?&colorB=orange)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.vsmarketplace-badges) [![Installs](https://vsmarketplacebadges.dev/installs/xuangeaha.vsmarketplace-badges.svg)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.vsmarketplace-badges) [![Downloads](https://vsmarketplacebadges.dev/downloads/xuangeaha.vsmarketplace-badges.svg)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.vsmarketplace-badges) [![Rating Short](https://vsmarketplacebadges.dev/rating-short/xuangeaha.vsmarketplace-badges.svg)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.vsmarketplace-badges) [![Rating Star](https://vsmarketplacebadges.dev/rating-star/xuangeaha.vsmarketplace-badges.svg)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.vsmarketplace-badges)
-
-[![TrendingDaily](https://vsmarketplacebadges.dev/trending-daily/xuangeaha.vsmarketplace-badges.svg?&colorB=blue)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.vsmarketplace-badges) [![TrendingWeekly](https://vsmarketplacebadges.dev/trending-weekly/xuangeaha.vsmarketplace-badges.svg?&colorB=blue)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.vsmarketplace-badges) [![TrendingMonthly](https://vsmarketplacebadges.dev/trending-monthly/xuangeaha.vsmarketplace-badges.svg?&colorB=blue)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.vsmarketplace-badges)
-
 Insert version, installs and rating badges for VSMarketplace extensions easily to your HTML or Markdown pages.
 
 将VSMarketplace扩展的版本、安装量和评分等徽章轻松插入到您的HTML或Markdown页面。
-
-**Homepage/主页**: [`https://kamaokat.github.io//`](https://kamaokat.github.io/)
 
 **Repository/仓库**: [`https://github.com/KamaoKat/VSMarketplace-Badges`](https://github.com/KamaoKat/VSMarketplace-Badges)
 
@@ -20,7 +14,7 @@ Insert version, installs and rating badges for VSMarketplace extensions easily t
 
 **Download/下载**: [`https://marketplace.visualstudio.com/items?itemName=XuangeAha.vsmarketplace-badges`](https://marketplace.visualstudio.com/items?itemName=XuangeAha.vsmarketplace-badges)
 
-**Copyright (c) 2023-2026 KamaoKat(卡猫kat,XuangeAha(轩哥啊哈OvO))**
+**Copyright (c) 2023-2027 Yoruyume**
 
 # How To Use 使用方法
 
